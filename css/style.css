@@ -825,7 +825,7 @@ ul, ol {
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 6px;
-    padding: 0 20px;
+    padding: 20px 0;
 }
 .portfolio-warp {
   position: relative;
