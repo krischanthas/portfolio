@@ -855,7 +855,8 @@ ul, ol {
   padding: 2px 4px;
 }
 .proj video {
-  width:100%;
+  width:85%;
+  padding: 2px 0;
 }
 .proj .title {
   color: white;
